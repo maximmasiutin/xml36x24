@@ -1,0 +1,2 @@
+@TASM XML36x24 /M
+@TPC -B DEMO
